@@ -1,4 +1,4 @@
-# Aleksandr Darenkov
+# Александр Даренков
 
 ## Contacts
 * __Location:__ Russia, Moscow
@@ -18,13 +18,13 @@ Cтудент 2 курса МАИ, института №3 МАИ — Систе
 * `CSS` 
 * `JS`
 
-## Experience:
+## Experience
 Писал различные парсеры и телеграмм-ботов с использованием `Python` на заказ.
 Вот несколько проектов которыми хочу поделиться:
 * [CTetris](https://github.com/kirigayakazuta/CTetris) - игра тетрис написанная на `С` с использованием `ncurses` для консольной графики
 * [SmartCalc](https://github.com/kirigayakazuta/SmartCalc) - desktop калькулятор с возможностью рисовать графики. Backend написан на `C`, а frontend на `C++` с использованием `Qt` 
 
-## Courses:
+## Courses
 * _Сбер_: __"School 21"__ продолжаю обучение
 * _Тинькофф Образование_: __"Алгоритмы и структуры данных"__ продолжаю обучение
 * _Stepic:_ __"Поколение Python: курс для начинающих"__
@@ -32,7 +32,7 @@ Cтудент 2 курса МАИ, института №3 МАИ — Систе
 * _Stepic:_ __"Поколение Python: курс для профессионалов"__
 * _Stepic:_ __"Поколение Python: ООП"__
 
-## Languages:
+## Languages
 * Russian - Native
 * English - B2
 
