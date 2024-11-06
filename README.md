@@ -34,4 +34,4 @@ Cтудент 3 курса МАИ, института №3 МАИ — Систе
 
 ### Языки
 - Russian - Native
-- English - B2
+- English - B1
